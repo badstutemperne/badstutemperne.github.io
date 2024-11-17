@@ -1,2 +1,0 @@
-# jonasportfolio
-My website.
